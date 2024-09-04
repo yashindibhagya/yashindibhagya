@@ -1,6 +1,8 @@
 # Hi there, I am Yashindi Bhagya
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&width=435&lines=UI+Designer;UX+Designer)](https://git.io/typing-svg)
 
+(https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true)
+
 ## Profile Views 👨‍💻
 ![Profile Views](https://komarev.com/ghpvc/?username=TharinduUmayanga&color=green)
 
