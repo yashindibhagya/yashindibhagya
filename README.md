@@ -1,4 +1,4 @@
-# Hi there, I am Yashindi Bhagya
+# Hi there 👋, I am Yashindi Bhagya
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&width=435&lines=UI+Designer;UX+Designer)](https://git.io/typing-svg)
 
 
@@ -28,7 +28,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva)
 
 
-
+##
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yashindibhagya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashindibhagya" height="30" width="40" /></a>
@@ -37,6 +37,7 @@
 <a href="https://www.behance.net/https://www.behance.net/yashindibhagya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/yashindibhagya1" height="30" width="40" /></a>
 </p>
 
+##
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashindibhagya&show_icons=true&locale=en" alt="yashindibhagya" /></p>
 
 
