@@ -16,7 +16,7 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
-![React Native]
+![React Native](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ## 🖥️ Softwares
 
