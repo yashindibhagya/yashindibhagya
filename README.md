@@ -37,10 +37,6 @@
 <a href="https://www.behance.net/https://www.behance.net/yashindibhagya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/yashindibhagya1" height="30" width="40" /></a>
 </p>
 
-
-##
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashindibhagya&show_icons=true&locale=en" alt="yashindibhagya" />
-
  ##
 Thank you for visiting my GitHub profile! 🤝 Have a wonderful day!
 
