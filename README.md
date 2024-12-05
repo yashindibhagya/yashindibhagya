@@ -17,6 +17,7 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![React Native](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
+![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
 
 ## 🖥️ Softwares
 
