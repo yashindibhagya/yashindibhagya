@@ -39,23 +39,8 @@
 
 
 ##
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashindibhagya&show_icons=true&locale=en" alt="yashindibhagya" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashindibhagya&show_icons=true&locale=en" alt="yashindibhagya" />
 
  ##
 Thank you for visiting my GitHub profile! 🤝 Have a wonderful day!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashindibhagya)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-<a href="https://developer.android.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" height="40" width="40" />
-</a>
-<a href="https://reactnative.dev/" target="blank">
-<img align="center" src="https://reactnative.dev/img/header_logo.svg" alt="React Native" height="40" width="40" />
-</a>
 
