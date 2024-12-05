@@ -43,3 +43,20 @@
 
  ##
 Thank you for visiting my GitHub profile! 🤝 Have a wonderful day!
+
+
+
+
+
+
+
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<a href="https://developer.android.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" height="40" width="40" />
+</a>
+<a href="https://reactnative.dev/" target="blank">
+<img align="center" src="https://reactnative.dev/img/header_logo.svg" alt="React Native" height="40" width="40" />
+</a>
+
