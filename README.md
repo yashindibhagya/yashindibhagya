@@ -23,8 +23,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator)
-![Adobe Dreamweaver](https://img.shields.io/badge/-Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=adobe-dreamweaver)
-![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva)
 
 
