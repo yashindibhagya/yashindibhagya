@@ -1,7 +1,7 @@
 # Hi there 👋, I am Yashindi Bhagya
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&width=435&lines=UI+Designer;UX+Designer)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/demo/?size=15&color=000000&lines=UI+%2F+UX+Designer;Front-end+developer;Android+Developer)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&width=435&lines=UI+%2F+UX+Designer;Front-end+developer;Android+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=000000&width=435&lines=UI+%2F+UX+Designer;Front-end+developer;Android+Developer)](https://git.io/typing-svg)
 
 
 ## Profile Views 👨‍💻
