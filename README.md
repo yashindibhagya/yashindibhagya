@@ -1,6 +1,12 @@
 # Hi there 👋, I am Yashindi Bhagya
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=000000&width=435&lines=UI+%2F+UX+Designer;Front-end+developer;Android+Developer)](https://git.io/typing-svg)
 
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2709C&center=true&width=435&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Mobile+Developer+%F0%9F%93%B1;Passionate+about+clean+design+%26+code;Always+learning+%E2%9C%85+Always+building+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
 
 ## Profile Views 👨‍💻
 ![Profile Views](https://komarev.com/ghpvc/?username=TharinduUmayanga&color=green)
