@@ -11,8 +11,10 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=yashindibhagya&color=blueviolet&style=for-the-badge&label=Profile+Views&animated=true)
   
 </div>
+<!-- Animated separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🚀 About Me
+##🚀 About Me
 <div align="left">
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 Full Stack Developer
