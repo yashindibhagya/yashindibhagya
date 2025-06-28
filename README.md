@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yashindi Bhagya
+# 👋 Hey, I'm Yashin Dibhagya
 
 <div align="center">
   
@@ -7,33 +7,37 @@
   <!-- Animated wave -->
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
   
+  <!-- Profile Views with animation -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=yashindibhagya&color=blueviolet&style=for-the-badge&label=Profile+Views&animated=true)
+  
 </div>
 
 ## 🚀 About Me
 
-```javascript
-const developer = {
-    name: "Yashin Dibhagya",
-    location: "🌍 Sri Lanka",
-    code: ["JavaScript", "Python", "TypeScript", "Go", "Rust"],
-    askMeAbout: ["web dev", "cloud architecture", "ML/AI", "open source"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue", "Svelte"],
-            css: ["Tailwind", "Styled Components", "SASS"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "Fastify"],
-            python: ["Django", "FastAPI", "Flask"],
-            databases: ["PostgreSQL", "MongoDB", "Redis"]
-        },
-        cloud: ["AWS", "Docker", "Kubernetes", "Terraform"],
-        misc: ["GraphQL", "Socket.io", "WebRTC", "Three.js"]
-    },
-    currentFocus: "Building scalable applications with modern web technologies",
-    funFact: "I debug with console.log and I'm not ashamed 🤷‍♂️"
-};
-```
+<div align="left">
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  
+  **Full Stack Developer**
+  
+  • 🔭 I'm currently working on: **AI-powered web applications and cloud solutions**
+  
+  • 💡 Exploring: **TensorFlow, LLMs, and modern design systems**
+  
+  • 🏗️ Passionate about: **React Native, Clean UI, AI-powered tools**
+  
+  • 🎯 Goal: **Make AI simple and useful for everyone**
+  
+  • 📧 Reach me at: **yashin.dibhagya@gmail.com**
+  
+  • ⚡ Fun fact: **I can debug code faster than I can explain why it works** 🤔
+  
+  • 🌱 Currently learning: **Advanced React patterns, Cloud Architecture, and Machine Learning**
+  
+  • 👨‍💻 All of my projects are available at: **[My Portfolio](https://yashindibhagya.dev)**
+  
+</div>
+
+<br clear="both" />
 
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -189,15 +193,15 @@ const developer = {
   
   **✨ Thanks for visiting my profile! ✨**
   
-  <!-- Colorful Snake Animation (Light Background) -->
+  <!-- Red Snake Animation with GitHub contribution colors -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashindibhagya/yashindibhagya/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashindibhagya/yashindibhagya/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yashindibhagya/yashindibhagya/output/github-contribution-grid-snake.svg">
   </picture>
   
-  <!-- Alternative colorful snake if above doesn't work -->
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <!-- Alternative Red Snake Animation -->
+  <img src="https://github.com/yashindibhagya/yashindibhagya/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
 </div>
 
