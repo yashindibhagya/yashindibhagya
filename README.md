@@ -14,23 +14,7 @@
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🚀 About Me
-<div align="left">
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-Full Stack Developer
-• 🔭 I'm currently working on: AI-powered web applications and cloud solutions
-• 💡 Exploring: TensorFlow, LLMs, and modern design systems
-• 🏗️ Passionate about: React Native, Clean UI, AI-powered tools
-• 🎯 Goal: Make AI simple and useful for everyone
-• 📧 Reach me at: yashin.dibhagya@gmail.com
-• ⚡ Fun fact: I can debug code faster than I can explain why it works 🤔
-• 🌱 Currently learning: Advanced React patterns, Cloud Architecture, and Machine Learning
-• 👨‍💻 All of my projects are available at: My Portfolio
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+## **🚀 About Me**
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
