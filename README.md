@@ -1,15 +1,16 @@
-# <div align="center">🌟 **YASHINDI BHAGYA** 🌟</div>
+# 👋 Hey, I'm Yashindi Bhagya
 
 <div align="center">
   
-  <!-- Unique hexagonal profile design with reduced height -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=6C63FF&height=80&section=header&text=FULL%20STACK%20DEVELOPER&fontSize=40&fontColor=ffffff&animation=blinking&fontAlignY=50"/>
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Cloud+Architecture+Enthusiast;Open+Source+Contributor;Building+the+Future%2C+One+Commit+at+a+Time)
   
-  <!-- Multi-layer animated typing with custom styling -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=500&color=6C63FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=⚡+INNOVATING+DIGITAL+EXPERIENCES;🚀+CLOUD+ARCHITECTURE+SPECIALIST;🎨+UI%2FUX+DESIGN+VIRTUOSO;🤖+AI+INTEGRATION+PIONEER;💡+OPEN+SOURCE+CONTRIBUTOR" />
+  <!-- Animated wave -->
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
   
-  <!-- Animated wave with glow effect -->
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px" style="filter: drop-shadow(0 0 10px #6C63FF);" />
+  
+</div>
+<!-- Animated separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 </div>
 
