@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yashin Dibhagya
+# 👋 Hey, I'm Yashindi Bhagya
 
 <div align="center">
   
@@ -6,9 +6,6 @@
   
   <!-- Animated wave -->
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-  
-  <!-- Profile Views with animation -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=yashindibhagya&color=blueviolet&style=for-the-badge&label=Profile+Views&animated=true)
   
 </div>
 
