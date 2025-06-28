@@ -1,208 +1,192 @@
-# 👋 Hey, I'm Yashindi Bhagya
+# <div align="center">👋 Hey, I'm **Yashindi Bhagya**</div>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Cloud+Architecture+Enthusiast;Open+Source+Contributor;Building+the+Future%2C+One+Commit+at+a+Time)
+  <!-- Modern animated title with glassmorphism effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Full+Stack+Developer;☁️+Cloud+Architecture+Enthusiast;🌟+Open+Source+Contributor;💡+Building+the+Future%2C+One+Commit+at+a+Time" />
   
-  <!-- Animated wave -->
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-  
+  <!-- Animated wave with modern styling -->
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" style="animation: wave 2s infinite;" />
   
 </div>
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## **🚀 About Me**
+<!-- Modern neon separator -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&animation=fadeIn"/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## **🌟 About Me**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Full+Stack+Developer;React+Native+Specialist;UI%2FUX+Design+Enthusiast;AI+Integration+Expert" alt="Typing SVG" />
-
-- 🔭 I'm currently working on: [**GestureConnect – AI-powered recipe generator**](https://github.com/yashindibhagya/GestureConnect.git)  
-- 💡 Exploring: **TensorFlow**, **LLMs**, and **design systems**  
-- 📱 Passionate about: **React Native**, **Clean UI**, **AI-powered tools**  
-- 🎯 Goal: **Make AI simple and useful for everyone**  
-- 📬 Reach me at: `yashindibhagya@gmail.com`  
-- ⚡ Fun fact: I can recognize fonts just by looking at them 👀
-- 🌱 Currently learning: Advanced React patterns, Cloud Architecture, and Machine Learning
-- 👨‍💻 All of my projects are available at: [**My Portfolio**](https://github.com/yashindibhagya/GestureConnect.git)
+<div align="center">
+  <img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/7de7f68f2747f81c7c9728a76b4b4b6d8f8e4e9d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 212, 255, 0.3);"/>
   
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashindibhagya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashindibhagya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=20&duration=3000&pause=1000&color=FF6B6B&width=500&lines=💻+Full+Stack+Developer;📱+React+Native+Specialist;🎨+UI%2FUX+Design+Enthusiast;🤖+AI+Integration+Expert;🌈+Creative+Problem+Solver" alt="Animated Skills" />
 </div>
 
+<br clear="right"/>
+
+### 🎯 **Current Focus**
+- 🔭 **Building:** [**GestureConnect – AI-powered recipe generator**](https://github.com/yashindibhagya/GestureConnect.git)  
+- 💡 **Exploring:** TensorFlow, LLMs, and cutting-edge design systems  
+- 📱 **Passionate about:** React Native, Clean UI, AI-powered solutions  
+- 🎯 **Mission:** Make AI accessible and useful for everyone  
+- 📬 **Contact:** `yashindibhagya@gmail.com`  
+- ⚡ **Superpower:** Font recognition at first sight 👀  
+- 🌱 **Learning:** Advanced React patterns, Cloud Architecture, ML  
+
+<!-- Modern animated separator -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,10,5&height=80&section=footer&animation=twinkling"/>
+
+## 📊 **GitHub Analytics**
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashindibhagya&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  
+  <!-- Modern stats cards with custom styling -->
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=yashindibhagya&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117,1A1B27&icon_color=00D4FF&title_color=00D4FF&text_color=FFFFFF&ring_color=FF6B6B"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashindibhagya&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117,1A1B27&title_color=00D4FF&text_color=FFFFFF"/>
+  
 </div>
 
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center" style="margin-top: 20px;">
+  
+  <!-- Enhanced streak stats -->
+  <img src="https://streak-stats.demolab.com/?user=yashindibhagya&theme=react&hide_border=true&background=0D1117,1A1B27&stroke=00D4FF&ring=FF6B6B&fire=FFD700&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  
+</div>
 
-## 🛠️ Tech Stack
+<!-- Animated separator with modern gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,8,12,33,7&height=70&section=footer"/>
+
+## 🛠️ **Tech Arsenal**
 
 <div align="center">
 
-### Languages
-<p>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+### **Languages & Frameworks**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,react,nextjs,vue,nodejs,express" />
 </p>
 
-### Frontend
-<p>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+### **Frontend & Styling**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap,figma,xd" />
 </p>
 
-### Backend & Database
-<p>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+### **Backend & Database**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase,supabase,prisma" />
 </p>
 
-### Cloud & DevOps
-<p>
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+### **Cloud & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,github,gitlab,vercel" />
 </p>
 
-### Tools & Others
-<p>
-<img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+### **Tools & Others**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,linux,bash,nginx,webpack" />
 </p>
 
 </div>
 
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Modern animated separator -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,12,20,25&height=60"/>
 
-## 🎯 Current Projects
+## 🎯 **Featured Projects**
 
 <div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashindibhagya&repo=awesome-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/yashindibhagya/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashindibhagya&repo=awesome-project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/yashindibhagya/awesome-project-2)
-
+  
+  [![GestureConnect](https://github-readme-stats.vercel.app/api/pin/?username=yashindibhagya&repo=GestureConnect&theme=react&hide_border=true&bg_color=0D1117,1A1B27&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF)](https://github.com/yashindibhagya/GestureConnect)
+  [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=yashindibhagya&repo=portfolio&theme=react&hide_border=true&bg_color=0D1117,1A1B27&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF)](https://github.com/yashindibhagya/portfolio)
+  
 </div>
 
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Contribution Graph
+## 📈 **Activity Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashindibhagya&theme=tokyo-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashindibhagya&custom_title=Yashindi's%20Contribution%20Graph&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFD700&area=true&hide_border=true&theme=react-dark" width="100%"/>
 </div>
 
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40"> **My Skill Progress**
+## 🎨 **Skill Mastery**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6347&center=true&width=600&lines=My+Technical+Skills+Progress;Always+improving+and+growing!" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&width=700&lines=🚀+Continuous+Learning+%26+Growth;💎+Mastering+Modern+Technologies" />
+  
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-80%25-00D8FF?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A" />
-  <img src="https://img.shields.io/badge/UI/UX_Design-90%25-ff00cc?style=for-the-badge&logo=figma&logoColor=white&labelColor=1E1E1E" />
-  <img src="https://img.shields.io/badge/Firebase-70%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFA000" />
+  <img src="https://img.shields.io/badge/React_Native-85%25-00D4FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117&color=00D4FF" />
+  <img src="https://img.shields.io/badge/UI/UX_Design-90%25-FF6B6B?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117&color=FF6B6B" />
+  <img src="https://img.shields.io/badge/Cloud_Architecture-75%25-FFD700?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117&color=FFD700" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-60%25-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=333333" />
-  <img src="https://img.shields.io/badge/Python/AI-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B" />
+  <img src="https://img.shields.io/badge/Node.js_Backend-80%25-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117&color=68A063" />
+  <img src="https://img.shields.io/badge/AI/ML_Integration-70%25-9B59B6?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117&color=9B59B6" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=isurudesilva06&repo=Final_Project&theme=react&hide_border=true&bg_color=0D1117" alt="Pinned Repository" />
-</div>
-
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## 🏆 GitHub Trophies
+## 🏆 **GitHub Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashindibhagya&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yashindibhagya&theme=matrix&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true" />
 </div>
 
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💭 Random Dev Quote
+## 💭 **Daily Inspiration**
 
 <div align="center">
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&border=true&quote_bg_color=0D1117&quote_color=00D4FF&author_color=FF6B6B"/>
   
 </div>
 
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Modern separator -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20,30&height=80&section=footer"/>
 
-## 🌐 Let's Connect
+## 🌐 **Let's Connect & Collaborate**
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashindibhagya)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashindibhagya)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://yashindibhagya.dev)
-  [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashin.dibhagya@gmail.com)
-  [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yashindibhagya)
+  <a href="https://linkedin.com/in/yashindibhagya">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" />
+  </a>
+  <a href="https://twitter.com/yashindibhagya">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://yashindibhagya.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+  <a href="mailto:yashindibhagya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00D4FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/yashindibhagya">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
   
 </div>
 
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Modern footer section -->
+<div align="center" style="margin-top: 40px;">
+  
+  <img src="https://komarev.com/ghpvc/?username=yashindibhagya&color=00D4FF&style=for-the-badge&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/yashindibhagya?color=FF6B6B&style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/yashindibhagya?color=FFD700&style=for-the-badge&logo=github&label=Total+Stars" />
+  
+  ---
+  
+  ### ✨ **Thanks for visiting my digital space!** ✨
+  
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=16&duration=4000&pause=1000&color=00D4FF&center=true&width=600&lines=🚀+Let's+build+something+amazing+together!;💡+Always+open+to+collaboration+and+new+ideas;🌟+Making+the+web+more+beautiful%2C+one+project+at+a+time" />
+  
+</div>
 
+<!-- Animated snake -->
 <div align="center">
-  
-  <!-- Profile Views Counter -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=yashindibhagya&color=6C63FF&style=for-the-badge)
-  [![GitHub followers](https://img.shields.io/github/followers/yashindibhagya?color=6C63FF&style=for-the-badge&logo=github)](https://github.com/yashindibhagya)
-  
-  **✨ Thanks for visiting my profile! ✨**
-  
-  <!-- Alternative: Simple snake eating contributions -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
-  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
 </div>
+
+<!-- Final modern footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10,20,30&height=120&section=footer&animation=fadeIn"/>
 
 ---
 
 <div align="center">
-  
-  <!-- Animated footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
-  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=10000&pause=2000&color=666666&center=true&width=500&lines=Made+with+💙+and+lots+of+☕;Keep+coding%2C+keep+growing+🌱" />
 </div>
