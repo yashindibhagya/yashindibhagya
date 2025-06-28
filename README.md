@@ -16,7 +16,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **ABOUT THE DEVELOPER**
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Holographic Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 25px; border: 2px solid #6C63FF; box-shadow: 0 0 30px rgba(108, 99, 255, 0.5), inset 0 0 20px rgba(108, 99, 255, 0.1);"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Full+Stack+Developer;React+Native+Specialist;UI%2FUX+Design+Enthusiast;AI+Integration+Expert" alt="Typing SVG" />
 
