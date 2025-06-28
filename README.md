@@ -1,20 +1,17 @@
-# <div align="center">🌟 **YASHINDI BHAGYA** 🌟</div>
+# 👋 Hey, I'm Yashindi Bhagya
 
 <div align="center">
   
-  <!-- Unique hexagonal profile design -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=6C63FF&height=150&section=header&text=FULL%20STACK%20DEVELOPER&fontSize=40&fontColor=ffffff&animation=blinking&fontAlignY=50"/>
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Cloud+Architecture+Enthusiast;Open+Source+Contributor;Building+the+Future%2C+One+Commit+at+a+Time)
   
-  <!-- Multi-layer animated typing with custom styling -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=500&color=6C63FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=⚡+INNOVATING+DIGITAL+EXPERIENCES;🚀+CLOUD+ARCHITECTURE+SPECIALIST;🎨+UI%2FUX+DESIGN+VIRTUOSO;🤖+AI+INTEGRATION+PIONEER;💡+OPEN+SOURCE+CONTRIBUTOR" />
+  <!-- Animated wave -->
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
   
-  <!-- Animated wave with glow effect -->
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px" style="filter: drop-shadow(0 0 10px #6C63FF);" />
   
 </div>
+<!-- Animated separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Unique geometric separator -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=6C63FF&height=100&section=header&animation=fadeIn"/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **ABOUT THE DEVELOPER**
 
@@ -22,9 +19,6 @@
   
   <!-- Floating holographic-style image -->
   <img align="right" alt="Holographic Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 25px; border: 2px solid #6C63FF; box-shadow: 0 0 30px rgba(108, 99, 255, 0.5), inset 0 0 20px rgba(108, 99, 255, 0.1);"/>
-  
-  <!-- Hologram-style text animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2500&pause=800&color=FF6B6B&width=520&lines=🔮+CRAFTING+DIGITAL+MAGIC;⚡+REACT+NATIVE+SORCERER;🎯+DESIGN+SYSTEM+ARCHITECT;🌟+AI+WHISPERER;💎+CODE+ARTISAN" alt="Holographic Skills" />
   
 </div>
 
