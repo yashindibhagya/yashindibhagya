@@ -15,6 +15,24 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **ABOUT THE DEVELOPER**
 
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Full+Stack+Developer;React+Native+Specialist;UI%2FUX+Design+Enthusiast;AI+Integration+Expert" alt="Typing SVG" />
+
+- 🔭 I'm currently working on: [**GestureConnect – AI-powered recipe generator**](https://github.com/yashindibhagya/GestureConnect.git)  
+- 💡 Exploring: **TensorFlow**, **LLMs**, and **design systems**  
+- 📱 Passionate about: **React Native**, **Clean UI**, **AI-powered tools**  
+- 🎯 Goal: **Make AI simple and useful for everyone**  
+- 📬 Reach me at: `yashindibhagya@gmail.com`  
+- ⚡ Fun fact: I can recognize fonts just by looking at them 👀
+- 🌱 Currently learning: Advanced React patterns, Cloud Architecture, and Machine Learning
+- 👨‍💻 All of my projects are available at: [**My Portfolio**](https://github.com/yashindibhagya/GestureConnect.git)
+  
+<!-- Animated separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <div align="center">
   
   <!-- Floating holographic-style image -->
