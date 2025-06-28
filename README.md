@@ -1,146 +1,157 @@
-# Hi, I'm Yashindi 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Native+Specialist;UI%2FUX+Designer;AI+Explorer;Building+the+future%2C+one+app+at+a+time" alt="Typing Animation" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=isurudesilva06&label=visitors&color=6366f1&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/isurudesilva06?label=followers&style=flat-square&color=6366f1" alt="Followers" />
-  <img src="https://img.shields.io/badge/focus-AI%20%26%20Mobile-6366f1?style=flat-square" alt="Focus" />
-</div>
-
-<br>
-
-## About Me
-
-**CS Student** passionate about creating intuitive mobile experiences and exploring AI possibilities.
-
-- 🚀 Currently building **Recipe Genie** - an AI-powered recipe generator
-- 🎯 Focused on **React Native**, **Clean Architecture**, and **AI Integration**
-- 🎨 Love crafting beautiful UIs and seamless user experiences
-- 📧 Reach me: `silvaisuru90@gmail.com`
-- ⚡ Can identify fonts at first sight 👀
-
-<br>
-
-## Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,python,firebase,mongodb,tailwind,figma,tensorflow&perline=5&theme=dark" />
-</div>
+# 👋 Hey, I'm [Your Name]
 
 <div align="center">
   
-**Frontend** • React Native • TypeScript • Tailwind CSS  
-**Backend** • Node.js • Express • MongoDB • Firebase  
-**AI/ML** • TensorFlow • PyTorch • Python  
-**Design** • Figma • Adobe PS • UI/UX Principles  
-
-</div>
-
-<br>
-
-## Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🧠 Recipe Genie</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-          <img src="https://img.shields.io/badge/AI_Powered-6366F1?style=flat-square" />
-        </div>
-        <br>
-        <p align="center">AI-powered recipe generator with mood detection. Smart recommendations based on your preferences and current mood.</p>
-        <div align="center">
-          <a href="https://github.com/isurudesilva06/Final_Project">
-            <img src="https://img.shields.io/badge/View_Project-000?style=flat-square&logo=github&logoColor=white" />
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">💰 Budget Buddy</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-          <img src="https://img.shields.io/badge/Coming_Soon-10B981?style=flat-square" />
-        </div>
-        <br>
-        <p align="center">Smart financial planner for students. AI-driven expense tracking and budgeting recommendations.</p>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Coming_Soon-6B7280?style=flat-square&logo=hourglass&logoColor=white" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isurudesilva06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isurudesilva06&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isurudesilva06&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
-</div>
-
-<br>
-
-## Skills Progress
-
-<div align="center">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Cloud+Architecture+Enthusiast;Open+Source+Contributor;Building+the+Future%2C+One+Commit+at+a+Time)
   
-```text
-React Native    ████████████████████   90%
-UI/UX Design    ███████████████████    85%
-TypeScript      ██████████████████     80%
-Node.js         █████████████████      75%
-AI/ML           ████████████████       70%
+</div>
+
+## 🚀 About Me
+
+```javascript
+const developer = {
+    name: "Your Name",
+    location: "🌍 Earth",
+    code: ["JavaScript", "Python", "TypeScript", "Go", "Rust"],
+    askMeAbout: ["web dev", "cloud architecture", "ML/AI", "open source"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Vue", "Svelte"],
+            css: ["Tailwind", "Styled Components", "SASS"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express", "Fastify"],
+            python: ["Django", "FastAPI", "Flask"],
+            databases: ["PostgreSQL", "MongoDB", "Redis"]
+        },
+        cloud: ["AWS", "Docker", "Kubernetes", "Terraform"],
+        misc: ["GraphQL", "Socket.io", "WebRTC", "Three.js"]
+    },
+    currentFocus: "Building scalable applications with modern web technologies",
+    funFact: "I debug with console.log and I'm not ashamed 🤷‍♂️"
+};
 ```
 
-</div>
-
-<br>
-
-## Activity Graph
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isurudesilva06&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-</div>
-
-<br>
-
-## Connect With Me
-
-<div align="center">
-  <a href="mailto:silvaisuru90@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/isurudesilva06">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/isurudesilva06">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/isurudesilva06">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+</div>
+
+## 🎯 Current Projects
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/yourusername/awesome-project-1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/yourusername/awesome-project-2)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B" width="100%"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+## 🎵 Coding Soundtrack
+
+<div align="center">
+  
+  [![Spotify](https://novatorem-git-main-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+  
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+</div>
+
+## 🌐 Let's Connect
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+  [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  
 </div>
 
 ---
 
 <div align="center">
-  <em>Building tomorrow's applications today ✨</em>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6C63FF&style=for-the-badge)
+  [![GitHub followers](https://img.shields.io/github/followers/yourusername?color=6C63FF&style=for-the-badge&logo=github)](https://github.com/yourusername)
+  
+  **✨ Thanks for visiting my profile! ✨**
+  
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
 </div>
+
+<!-- Hidden section for GitHub stats -->
+<details>
+<summary>📊 More GitHub Stats</summary>
+
+<div align="center">
+
+### 📅 Contribution Calendar
+![GitHub Activity](https://ghchart.rshah.org/6C63FF/yourusername)
+
+### 💻 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🔥 Recent Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+</div>
+
+</details>
