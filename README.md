@@ -20,6 +20,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Full+Stack+Developer;React+Native+Specialist;UI%2FUX+Design+Enthusiast;AI+Integration+Expert" alt="Typing SVG" />
 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **CURRENT MISSION**
+
 - 🔭 I'm currently working on: [**GestureConnect – AI-powered recipe generator**](https://github.com/yashindibhagya/GestureConnect.git)  
 - 💡 Exploring: **TensorFlow**, **LLMs**, and **design systems**  
 - 📱 Passionate about: **React Native**, **Clean UI**, **AI-powered tools**  
