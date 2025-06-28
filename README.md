@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yashin Dibhagya
+# 👋 Hey, I'm Yashindi Bhagya
 
 <div align="center">
   
@@ -12,33 +12,20 @@
   
 </div>
 
-## 🚀 About Me
-
+🚀 About Me
 <div align="left">
-  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-  
-  **Full Stack Developer**
-  
-  • 🔭 I'm currently working on: **AI-powered web applications and cloud solutions**
-  
-  • 💡 Exploring: **TensorFlow, LLMs, and modern design systems**
-  
-  • 🏗️ Passionate about: **React Native, Clean UI, AI-powered tools**
-  
-  • 🎯 Goal: **Make AI simple and useful for everyone**
-  
-  • 📧 Reach me at: **yashin.dibhagya@gmail.com**
-  
-  • ⚡ Fun fact: **I can debug code faster than I can explain why it works** 🤔
-  
-  • 🌱 Currently learning: **Advanced React patterns, Cloud Architecture, and Machine Learning**
-  
-  • 👨‍💻 All of my projects are available at: **[My Portfolio](https://yashindibhagya.dev)**
-  
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+Full Stack Developer
+• 🔭 I'm currently working on: AI-powered web applications and cloud solutions
+• 💡 Exploring: TensorFlow, LLMs, and modern design systems
+• 🏗️ Passionate about: React Native, Clean UI, AI-powered tools
+• 🎯 Goal: Make AI simple and useful for everyone
+• 📧 Reach me at: yashin.dibhagya@gmail.com
+• ⚡ Fun fact: I can debug code faster than I can explain why it works 🤔
+• 🌱 Currently learning: Advanced React patterns, Cloud Architecture, and Machine Learning
+• 👨‍💻 All of my projects are available at: My Portfolio
 </div>
-
 <br clear="both" />
-
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -116,7 +103,7 @@
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashindibhagya&repo=awesome-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/yashindibhagya/awesome-project-1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashindibhagya&repo=awesome-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/yashindibhagya/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashindibhagya&repo=awesome-project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/yashindibhagya/awesome-project-2)
 
 </div>
@@ -141,20 +128,6 @@
 
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💻 Coding Activity
-
-<div align="center">
-  
-  <!-- WakaTime Stats -->
-  [![wakatime](https://wakatime.com/badge/user/your-user-id.svg)](https://wakatime.com/@your-user-id)
-  
-  <br/>
-  
-  <!-- Animated Coding GIF -->
-  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f343332383737342f636f64696e672d667265616b2e676966" alt="Coder GIF" width="500">
-  
-</div>
 
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -193,37 +166,10 @@
   
   **✨ Thanks for visiting my profile! ✨**
   
-  <!-- Red Snake Animation - Working version -->
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  
   <!-- Alternative: Simple snake eating contributions -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
   
 </div>
-
-<!-- Hidden section for GitHub stats -->
-<details>
-<summary>📊 More GitHub Stats</summary>
-
-<div align="center">
-
-### 📅 Contribution Calendar
-![GitHub Activity](https://ghchart.rshah.org/6C63FF/yashindibhagya)
-
-### 💻 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-### 🔥 Recent Activity
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-### 📊 Detailed Stats
-![Metrics](https://metrics.lecoq.io/yashindibhagya?template=classic&config.timezone=Asia%2FColombo)
-
-</div>
-
-</details>
 
 ---
 
