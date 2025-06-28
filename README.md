@@ -27,8 +27,8 @@
 - 📬 Reach me at: `yashindibhagya@gmail.com`  
 - ⚡ Fun fact: I can recognize fonts just by looking at them 👀
 - 🌱 Currently learning: Advanced React patterns, Cloud Architecture, and Machine Learning
-- 👨‍💻 All of my projects are available at: My Portfolio
-
+- 👨‍💻 All of my projects are available at: [**My Portfolio**](https://github.com/yashindibhagya/GestureConnect.git)
+  
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -122,6 +122,32 @@
 
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40"> **My Skill Progress**
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6347&center=true&width=600&lines=My+Technical+Skills+Progress;Always+improving+and+growing!" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-80%25-00D8FF?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A" />
+  <img src="https://img.shields.io/badge/UI/UX_Design-90%25-ff00cc?style=for-the-badge&logo=figma&logoColor=white&labelColor=1E1E1E" />
+  <img src="https://img.shields.io/badge/Firebase-70%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFA000" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-60%25-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=333333" />
+  <img src="https://img.shields.io/badge/Python/AI-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=isurudesilva06&repo=Final_Project&theme=react&hide_border=true&bg_color=0D1117" alt="Pinned Repository" />
+</div>
+
+<!-- Animated separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🏆 GitHub Trophies
 
