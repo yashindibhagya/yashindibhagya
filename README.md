@@ -205,7 +205,7 @@
   
   ---
   
-  ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> **THANK YOU FOR ENTERING THE CODE MATRIX** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  ### 👋 **THANK YOU FOR ENTERING THE CODE MATRIX** 👋
   
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=4000&pause=1000&color=6C63FF&center=true&width=800&lines=⚡+TOGETHER+WE+BUILD+THE+IMPOSSIBLE;💡+COLLABORATION+IS+THE+KEY+TO+INNOVATION;🌟+TRANSFORMING+IDEAS+INTO+DIGITAL+REALITY;🚀+READY+TO+REVOLUTIONIZE+THE+TECH+WORLD" />
   
@@ -213,7 +213,7 @@
 
 <!-- Animated holographic snake -->
 <div align="center" style="margin-top: 30px;">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="🐍 Holographic Snake Matrix" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="🐍 Contribution Snake" />
 </div>
 
 <!-- Final cyberpunk footer with reduced height -->
@@ -222,5 +222,7 @@
 ---
 
 <div align="center" style="background: linear-gradient(45deg, rgba(108, 99, 255, 0.05), rgba(255, 107, 107, 0.05)); border-radius: 10px; padding: 15px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=12&duration=8000&pause=2000&color=666666&center=true&width=600&lines=🔮+Crafted+with+💜+and+infinite+☕;⚡+Keep+coding%2C+keep+innovating+🌱;🚀+The+future+is+now%2C+let's+build+it+together" />
+  
+  **🔮 Crafted with 💜 and infinite ☕ | ⚡ Keep coding, keep innovating 🌱 | 🚀 The future is now, let's build it together**
+  
 </div>
