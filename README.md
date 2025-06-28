@@ -1,31 +1,30 @@
-# 👋 Hey, I'm Yashindi Bhagya
+# <div align="center">🌟 **YASHINDI BHAGYA** 🌟</div>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Cloud+Architecture+Enthusiast;Open+Source+Contributor;Building+the+Future%2C+One+Commit+at+a+Time)
+  <!-- Unique hexagonal profile design -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=6C63FF&height=150&section=header&text=FULL%20STACK%20DEVELOPER&fontSize=40&fontColor=ffffff&animation=blinking&fontAlignY=50"/>
   
-  <!-- Animated wave -->
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+  <!-- Multi-layer animated typing with custom styling -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=500&color=6C63FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=⚡+INNOVATING+DIGITAL+EXPERIENCES;🚀+CLOUD+ARCHITECTURE+SPECIALIST;🎨+UI%2FUX+DESIGN+VIRTUOSO;🤖+AI+INTEGRATION+PIONEER;💡+OPEN+SOURCE+CONTRIBUTOR" />
   
-  
-</div>
-<!-- Animated separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <!-- Animated wave with glow effect -->
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px" style="filter: drop-shadow(0 0 10px #6C63FF);" />
   
 </div>
 
-<!-- Unique geometric separator with reduced height -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=6C63FF&height=60&section=header&animation=fadeIn"/>
+<!-- Unique geometric separator -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=6C63FF&height=100&section=header&animation=fadeIn"/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **ABOUT THE DEVELOPER**
 
 <div align="center">
   
-  <!-- Working holographic-style coding gif -->
-  <img align="right" alt="Coding Animation" width="420" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6537365f6e332d61692d70696e6b2d776f6d616e2d636f64696e672d4b794d4d2d7734384d566444546c4b376b2e676966" style="border-radius: 25px; border: 2px solid #6C63FF; box-shadow: 0 0 30px rgba(108, 99, 255, 0.5);"/>
+  <!-- Floating holographic-style image -->
+  <img align="right" alt="Holographic Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 25px; border: 2px solid #6C63FF; box-shadow: 0 0 30px rgba(108, 99, 255, 0.5), inset 0 0 20px rgba(108, 99, 255, 0.1);"/>
   
   <!-- Hologram-style text animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2500&pause=800&color=FF6B6B&width=520&lines=🔮+CRAFTING+DIGITAL+MAGIC;⚡+REACT+NATIVE+SORCERER;🎯+DESIGN+SYSTEM+ARCHITECT;🌟+AI+WHISPERER;💎+CODE+ARTISAN" alt="Skills Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2500&pause=800&color=FF6B6B&width=520&lines=🔮+CRAFTING+DIGITAL+MAGIC;⚡+REACT+NATIVE+SORCERER;🎯+DESIGN+SYSTEM+ARCHITECT;🌟+AI+WHISPERER;💎+CODE+ARTISAN" alt="Holographic Skills" />
   
 </div>
 
@@ -41,12 +40,12 @@
 - <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="20"> **Mission:** Democratizing AI for the masses  
 - <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20"> **Contact:** `yashindibhagya@gmail.com`  
 - <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="20"> **Superpower:** Font recognition at lightspeed 👁️‍🗨️  
-- <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20"> **Learning:** Next-gen React patterns, Quantum Computing, Deep Learning <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20">
+- <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20"> **Learning:** Next-gen React patterns, Quantum Computing, Deep Learning  
 
 </div>
 
-<!-- Unique diamond separator with reduced height -->
-<img src="https://capsule-render.vercel.app/api?type=diamond&color=gradient&customColorList=12,20,33,10,5&height=60&section=footer&animation=twinkling"/>
+<!-- Unique diamond separator -->
+<img src="https://capsule-render.vercel.app/api?type=diamond&color=gradient&customColorList=12,20,33,10,5&height=100&section=footer&animation=twinkling"/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **PERFORMANCE ANALYTICS**
 
@@ -65,8 +64,8 @@
   
 </div>
 
-<!-- Cyberpunk separator with reduced height -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,8,12,33,7&height=50&section=footer&animation=fadeIn"/>
+<!-- Cyberpunk separator -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,8,12,33,7&height=80&section=footer&animation=fadeIn"/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> **TECH ARSENAL**
 
@@ -119,8 +118,8 @@
 
 </div>
 
-<!-- Holographic separator with reduced height -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,5,12,20,25&height=40&animation=blinking"/>
+<!-- Holographic separator -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,5,12,20,25&height=70&animation=blinking"/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **FEATURED PROJECTS**
 
@@ -142,8 +141,6 @@
 <div align="center" style="background: linear-gradient(135deg, rgba(108, 99, 255, 0.1), transparent); border-radius: 20px; padding: 25px;">
   
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&width=700&lines=🔮+CONTINUOUS+EVOLUTION;💎+MASTERING+TOMORROW'S+TECH+TODAY" />
-  
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" alt="Growth Animation">
   
 </div>
 
@@ -172,8 +169,8 @@
   
 </div>
 
-<!-- Holographic separator with reduced height -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20,30&height=50&section=footer&animation=twinkling"/>
+<!-- Holographic separator -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20,30&height=90&section=footer&animation=twinkling"/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **CONNECT TO THE MATRIX**
 
@@ -206,7 +203,7 @@
   
   ---
   
-  ### 👋 **THANK YOU FOR ENTERING THE CODE MATRIX** 👋
+  ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> **THANK YOU FOR ENTERING THE CODE MATRIX** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=4000&pause=1000&color=6C63FF&center=true&width=800&lines=⚡+TOGETHER+WE+BUILD+THE+IMPOSSIBLE;💡+COLLABORATION+IS+THE+KEY+TO+INNOVATION;🌟+TRANSFORMING+IDEAS+INTO+DIGITAL+REALITY;🚀+READY+TO+REVOLUTIONIZE+THE+TECH+WORLD" />
   
@@ -214,16 +211,14 @@
 
 <!-- Animated holographic snake -->
 <div align="center" style="margin-top: 30px;">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="🐍 Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="🐍 Holographic Snake Matrix" />
 </div>
 
-<!-- Final cyberpunk footer with reduced height -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=6C63FF&height=80&section=footer&animation=blinking&fontColor=ffffff&fontSize=20&text=END%20OF%20TRANSMISSION"/>
+<!-- Final cyberpunk footer -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=6C63FF&height=150&section=footer&animation=blinking&fontColor=ffffff&fontSize=20&text=END%20OF%20TRANSMISSION"/>
 
 ---
 
 <div align="center" style="background: linear-gradient(45deg, rgba(108, 99, 255, 0.05), rgba(255, 107, 107, 0.05)); border-radius: 10px; padding: 15px;">
-  
-  **🔮 Crafted with 💜 and infinite ☕ | ⚡ Keep coding, keep innovating 🌱 | 🚀 The future is now, let's build it together**
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=12&duration=8000&pause=2000&color=666666&center=true&width=600&lines=🔮+Crafted+with+💜+and+infinite+☕;⚡+Keep+coding%2C+keep+innovating+🌱;🚀+The+future+is+now%2C+let's+build+it+together" />
 </div>
