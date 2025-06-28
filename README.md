@@ -14,7 +14,7 @@
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##🚀 About Me
+🚀 About Me
 <div align="left">
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 Full Stack Developer
@@ -26,10 +26,22 @@ Full Stack Developer
 • ⚡ Fun fact: I can debug code faster than I can explain why it works 🤔
 • 🌱 Currently learning: Advanced React patterns, Cloud Architecture, and Machine Learning
 • 👨‍💻 All of my projects are available at: My Portfolio
-</div>
-<br clear="both" />
 <!-- Animated separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Full+Stack+Developer;React+Native+Specialist;UI%2FUX+Design+Enthusiast;AI+Integration+Expert" alt="Typing SVG" />
+
+- 🔭 I'm currently working on: [**Recipe Genie – AI-powered recipe generator**](https://github.com/isurudesilva06/Final_Project.git)  
+- 💡 Exploring: **TensorFlow**, **LLMs**, and **design systems**  
+- 📱 Passionate about: **React Native**, **Clean UI**, **AI-powered tools**  
+- 🎯 Goal: **Make AI simple and useful for everyone**  
+- 📬 Reach me at: `silvaisuru90@gmail.com`  
+- ⚡ Fun fact: I can recognize fonts just by looking at them 👀  
 
 ## 📊 GitHub Analytics
 
