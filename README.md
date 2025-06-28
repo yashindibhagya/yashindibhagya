@@ -1,4 +1,4 @@
-# Hi, I'm Isuru 👋
+# Hi, I'm Yashindi 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Native+Specialist;UI%2FUX+Designer;AI+Explorer;Building+the+future%2C+one+app+at+a+time" alt="Typing Animation" />
