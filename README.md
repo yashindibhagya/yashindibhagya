@@ -8,9 +8,9 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://yourportfolio.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Email](https://img.shields.io/badge/Contact-F59E0B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white)]((https://yashindibhagya.vercel.app/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashindibhagya)
+  [![Email](https://img.shields.io/badge/Contact-F59E0B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashindibhagya@gmail.com)
   
 </div>
 
@@ -34,18 +34,19 @@ I believe in creating interfaces that feel intuitive and delightful. Every pixel
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me - The Digital Architect**
 
 
-- 🔭 I'm currently working on: [**GestureConnect – AI-powered recipe generator**](https://github.com/yashindibhagya/GestureConnect.git)  
-- 💡 Exploring: **TensorFlow**, **LLMs**, and **design systems**  
+- 🔭 I'm currently working on: [**GestureConnect – A Mobile Application for Real-Time Communication Between Deaf and Hearing
+Users**](https://github.com/yashindibhagya/deaf_app.git)  
+- 💡 Exploring: **TensorFlow**, **LSTM**, and **design systems**  
 - 📱 Passionate about: **React Native**, **Clean UI**, **AI-powered tools**  
 - 🎯 Goal: **Make AI simple and useful for everyone**  
 - 📬 Reach me at: `yashindibhagya@gmail.com`  
 - ⚡ Fun fact: I can recognize fonts just by looking at them 👀
 - 🌱 Currently learning: Advanced React patterns, Cloud Architecture, and Machine Learning
-- 👨‍💻 All of my projects are available at: [**My Portfolio**](https://github.com/yashindibhagya/GestureConnect.git)
+- 👨‍💻 All of my projects are available at: [**My Portfolio**](https://yashindibhagya.vercel.app/)
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> **TECH ARSENAL - CARD LAYOUT**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> **TECH ARSENAL**
 
 <div align="center">
 
@@ -102,15 +103,15 @@ I believe in creating interfaces that feel intuitive and delightful. Every pixel
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🧠 Recipe Genie</h3>
+      <h3>🧠 GestureConnect</h3>
       <img src="https://img.shields.io/badge/AI%20Powered-Recipe%20Generator-orange?style=for-the-badge&logo=tensorflow" />
       <br><br>
-      A smart recipe generator using AI + mood detection.
+      A Mobile Application for Real-Time Communication Between Deaf and Hearing Users
       <br><br>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
       <br><br>
-      <a href="https://github.com/isurudesilva06/Final_Project">
+      <a href="https://github.com/yashindibhagya/deaf_app">
         <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -191,11 +192,11 @@ I believe in creating interfaces that feel intuitive and delightful. Every pixel
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/yourprofile)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yashindibhagya.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashindibhagya)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/yashindibhagya)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/yashindibhagya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashindibhagya@gmail.com)
 
 </div>
 
