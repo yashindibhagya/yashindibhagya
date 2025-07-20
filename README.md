@@ -163,7 +163,7 @@ Users**](https://github.com/yashindibhagya/deaf_app.git)
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=isurudesilva06&repo=Final_Project&theme=react&hide_border=true&bg_color=0D1117" alt="Pinned Repository" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashindibhagya&repo=Final_Project&theme=react&hide_border=true&bg_color=0D1117" alt="Pinned Repository" />
 </div>
 
 ---
