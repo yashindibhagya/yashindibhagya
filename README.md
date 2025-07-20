@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white)]((https://yashindibhagya.vercel.app/))
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://yashindibhagya.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashindibhagya)
   [![Email](https://img.shields.io/badge/Contact-F59E0B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashindibhagya@gmail.com)
   
