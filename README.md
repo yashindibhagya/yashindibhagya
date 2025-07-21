@@ -48,6 +48,7 @@ Users**](https://github.com/yashindibhagya/deaf_app.git)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> **TECH ARSENAL**
 
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 <div align="center">
 
 <table>
@@ -144,6 +145,7 @@ Users**](https://github.com/yashindibhagya/deaf_app.git)
 - 🧠 **Learning** 3D Modelling designing
 
 ---
+
 
 ## <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40"> **My Skill Progress**
 
