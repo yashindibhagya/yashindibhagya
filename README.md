@@ -116,16 +116,16 @@ Users**](https://github.com/yashindibhagya/deaf_app.git)
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>💰 Budget Buddy</h3>
+      <h3>💰 E-Learning Platform</h3>
       <img src="https://img.shields.io/badge/AI%20Financial-Planner-green?style=for-the-badge&logo=chartdotjs" />
       <br><br>
-      AI financial planner for students to track and manage expenses.
+      AI Learning Platform for students to search and learn. 
       <br><br>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
       <br><br>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Coming%20Soon-FFA500?style=for-the-badge&logo=hourglass&logoColor=white" />
+      <a href="https://github.com/yashindibhagya/e-learn">
+        <img src="https://img.shields.io/badge/View%20Project-FFA500?style=for-the-badge&logo=hourglass&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -141,7 +141,7 @@ Users**](https://github.com/yashindibhagya/deaf_app.git)
 - 🎭 **Exploring** micro-interactions and motion design  
 - 🎯 **Advocating** for inclusive design practices
 - 👥 **Mentoring** aspiring designers and developers
-- 🧠 **Learning** AR/VR interface design
+- 🧠 **Learning** 3D Modelling designing
 
 ---
 
@@ -159,7 +159,7 @@ Users**](https://github.com/yashindibhagya/deaf_app.git)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-60%25-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=333333" />
-  <img src="https://img.shields.io/badge/Python/AI-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B" />
+  <img src="https://img.shields.io/badge/Python-60%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B" />
 </p>
 
 <div align="center">
