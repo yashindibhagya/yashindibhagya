@@ -211,3 +211,4 @@ Users**](https://github.com/yashindibhagya/deaf_app.git)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20For%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling"/>
 
 </div>
+
