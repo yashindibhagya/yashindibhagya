@@ -202,6 +202,14 @@ Users**](https://github.com/yashindibhagya/deaf_app.git)
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashindibhagya/yashindibhagya/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashindibhagya/yashindibhagya/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.comyashindibhagya/yashindibhagya/output/pacman-contribution-graph.svg">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600"/>
 
 ### 🌟 "Code is poetry, design is music, together they create magic" 🌟
