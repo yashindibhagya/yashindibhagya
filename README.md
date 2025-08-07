@@ -105,7 +105,7 @@ Users**](https://github.com/yashindibhagya/deaf_app.git)
   <tr>
     <td align="center" width="50%">
       <h3>🧠 GestureConnect</h3>
-      <img src="https://img.shields.io/badge/AI%20Powered-Recipe%20Generator-orange?style=for-the-badge&logo=tensorflow" />
+      <img src="https://img.shields.io/badge/AI%20Powered-Sign%20Language Generator-orange?style=for-the-badge&logo=tensorflow" />
       <br><br>
       A Mobile Application for Real-Time Communication Between Deaf and Hearing Users
       <br><br>
